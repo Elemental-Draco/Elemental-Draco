@@ -1,4 +1,4 @@
-## Elemental-Draco
+## Elemental-Draco 🐉
 ### Basic Info
 - Age: Mid 20s
 - Gender: Male
