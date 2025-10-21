@@ -1,16 +1,15 @@
 ## 🐉 Elemental-Draco
-### "Building modern web apps with style, speed, and a little fire."
+### "Solving complex problems, one line at a time"
 
 ---
 
 ### 🧍 About Me
-- **Name:** Jadias “Elemental-Draco” Washington  
+- **Name:** Jadias Washington | Elemental-Draco  
 - **Age Range:** Mid-20s  
 - **Location:** Georgia, USA  
-- **Degree:** B.S. Full Stack Web Development *(Graduating Dec 2025)*  
+- **Education:** B.S. Full Stack Web Development
 - **Favorite Language:** JavaScript  
 - **Favorite Library:** React  
-- **Type of Developer:** Frontend-focused full stack developer passionate about UI/UX, clean design, and performance.  
 
 ---
 
@@ -38,7 +37,7 @@
 ---
 
 ### 🔥 Current Focus
-- Building **Quick Thaw**, a Vue.js restaurant thaw-tracking app.  
+- Building **Quick Thaw**, a React.js restaurant thaw-tracking app.  
 <!--
 **Elemental-Draco/Elemental-Draco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
