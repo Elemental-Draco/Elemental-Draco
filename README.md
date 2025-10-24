@@ -7,7 +7,7 @@
 - **Name:** Jadias Washington | Elemental-Draco  
 - **Age Range:** Mid-20s  
 - **Location:** Georgia, USA  
-- **Education:** B.S. Full Stack Web Development
+- **Education:** B.S. Full Stack Web Development - Arizona State University
 - **Favorite Language:** JavaScript  
 - **Favorite Library:** React  
 
@@ -26,6 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
+
+---
+
+### 🏁 Recently Completed
+**PokePlushes** — A Pokémon-themed e-commerce storefront with dynamic cart management and order flow.
+
+🔗 **Live Demo:** *(https://elemental-draco.github.io/PokePlushes/)*  
+💻 **Repo:** https://github.com/elemental-draco/pokeplushes
 
 ---
 
