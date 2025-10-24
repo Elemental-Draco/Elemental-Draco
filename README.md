@@ -32,7 +32,8 @@
 ### 🏁 Recently Completed
 **PokePlushes** — A Pokémon-themed e-commerce storefront with dynamic cart management and order flow.
 
-🔗 **Live Demo:** *(https://elemental-draco.github.io/PokePlushes/)*  
+🔗 **Live Demo:** https://elemental-draco.github.io/PokePlushes/
+
 💻 **Repo:** https://github.com/elemental-draco/pokeplushes
 
 ---
